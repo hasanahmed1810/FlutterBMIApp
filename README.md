@@ -1,1 +1,1 @@
-A simple bmi app made using flutter
+A simple BMI app made using flutter
